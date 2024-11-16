@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Code created by: Mohammed Safwanul Islam @safwandotcom®
-# Project: Data Science OPENPOSE 
+# Project: Data Science File Conversion 
 # Date created: 15th November 2024
-# Organization: Kidocode
+# Organization: N/A
 # -----------------------------------------------------------------------------
 # Description:
 #    This script generates a QR code with an optional logo centered in the middle of the QR code. 
